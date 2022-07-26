@@ -106,19 +106,19 @@ span {
   margin: 30px;
 }
 
-.sticker_lamp {
+#s1 {
   position: absolute;
   right: 572px;
   top: 203px;
 }
 
-.sticker_arrow {
+#s2 {
   position: absolute;
   top: 190px;
   right: 50px;
 }
 
-.sticker_swirl {
+#s3 {
   position: absolute;
   top: 694px;
   right: 122px;
